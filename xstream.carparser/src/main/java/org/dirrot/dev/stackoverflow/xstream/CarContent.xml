@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope>
+	<soap:Body>
+		<GetCarsResponse>
+			<GetCarsResult>
+				<ResponseCode>0</ResponseCode>
+				<ResponseText>OK</ResponseText>
+				<Cars>
+					<Car>
+						<CarId>18</CarId>
+						<CarCode>NHO 314</CarCode>
+						<CarName>paddy</CarName>
+						<CarType>8 PAX LIMO</CarType>
+					</Car>
+					<Car>
+						<CarId>19</CarId>
+						<CarCode>NHO 352</CarCode>
+						<CarName />
+						<CarType>8 PAX LIMO</CarType>
+					</Car>
+					<Car>
+						<CarId>20</CarId>
+						<CarCode>NHO 382</CarCode>
+						<CarType>A CLASS</CarType>
+					</Car>
+					<Car>
+						<CarId>21</CarId>
+						<CarCode>NHO 417</CarCode>
+						<CarName />
+						<CarType>8 PAX LIMO</CarType>
+					</Car>
+				</Cars>
+			</GetCarsResult>
+		</GetCarsResponse>
+	</soap:Body>
+</soap:Envelope>
