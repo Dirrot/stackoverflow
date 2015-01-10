@@ -1,1 +1,0 @@
-http://stackoverflow.com/questions/27378834/com-thoughtworks-xstream-mapper-cannotresolveclassexception-in-android
